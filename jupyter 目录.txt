@@ -1,0 +1,23 @@
+
+命令行输入
+jupyter notebook --generate-config
+
+打开Python文件，搜索
+c.NotebookApp.notebook_dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
